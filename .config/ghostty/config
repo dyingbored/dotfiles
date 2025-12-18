@@ -1,0 +1,33 @@
+#
+#                      Ghostty Terminal Config 👻
+#
+
+
+## Visual configuration
+theme=Tomorrow Night Burns
+background-opacity = 0.94
+window-theme = dark
+unfocused-split-opacity = 0.6
+
+# Window Configuration
+window-height = 30
+window-width = 120
+
+# Font Configuration
+font-family = "JetBrainsMonoNL Nerd Font"
+font-size = 12
+
+font-style = Light
+font-style-bold = Bold
+font-style-italic = SemiBold Italic
+font-style-bold-italic = Bold Italic
+
+# Other Configuration
+title="Terminal 👻"
+shell-integration = zsh
+confirm-close-surface = false
+
+# MacOS Configuation
+macos-icon = xray
+macos-non-native-fullscreen = true
+macos-titlebar-style = tabs
