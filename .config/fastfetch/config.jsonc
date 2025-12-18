@@ -2,9 +2,9 @@
   "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
   "logo": {
     "type": "auto",        // Logo type: auto, builtin, small, file, etc.
-    "source": "arch",      // Built-in logo name or file path
-    "width": 65,           // Width in characters (for image logos)
-    "height": 35,          // Height in characters (for image logos)
+    "source": "",      // Built-in logo name or file path
+    "width": 15,           // Width in characters (for image logos)
+    "height": 15,          // Height in characters (for image logos)
     "padding": {
         "top": 0,          // Top padding
         "left": 0,         // Left padding
@@ -29,8 +29,8 @@
     },
     "bar": {
         "width": 10,       // Width of percentage bars
-        "charElapsed": "■", // Character for elapsed portion
-        "charTotal": "-"   // Character for total portion
+        "char.Elapsed": "■", // Character for elapsed portion
+        "char.Total": "-"   // Character for total portion
     },
     "percent": {
         "type": 9,         // 1=number, 2=bar, 3=both, 9=colored number
