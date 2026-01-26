@@ -18,6 +18,7 @@ rawr
 | Terminal              | Ghostty + Oh My Zsh                          |
 | Fetch Utility         | fastfetch                                    |
 | Font                  | JetBrains Mono + Nerd Font Patch             |
+| Wallpaper Utility     | Swaybg (maybe waypaper)                      |
 | File Browser          | Dolphin                                      |
 | Internet Browser      | Brave + Ublock Origin                        |
 | Hyprland Bar          | Waybar                                       |
