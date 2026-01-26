@@ -12,19 +12,14 @@ rawr
 |-----------------------|----------------------------------------------|
 | Distro                | Arch                                         |
 | Shell                 | Zsh                                          |
-| Display Server        | Wayland                                      |
-| WM (Compositor)       | KDE Plasma / Hyprland                        |
+| WM (Compositor)       | Hyprland                                     |
 | Display Manager       | SDDM + Corners                               |
 | Editor                | Nano + VSCode                                |
-| Terminal              | Kitty + Oh My Zsh                            |
+| Terminal              | Ghostty + Oh My Zsh                          |
 | Fetch Utility         | fastfetch                                    |
-| Theme                 | Dracula                                      |
-| Icons                 | Colloid-teal-dark                            |
 | Font                  | JetBrains Mono + Nerd Font Patch             |
-| Player                | Spicetify + Spotify                          |
-| File Browser          | Dolphin + Dolphin Plugins                    |
+| File Browser          | Dolphin                                      |
 | Internet Browser      | Brave + Ublock Origin                        |
-| Mimetypes             | MPV, qview                                   |
 | Hyprland Bar          | Waybar                                       |
 | Hyprland Notification | Dunst                                        |
 | Hyprland Launcher     | Rofi                                         |
