@@ -1,8 +1,7 @@
 # dotfiles
 rawr
 
-> my dot files managed by [chezmoi](https://www.chezmoi.io/).
-> (cant figure out why it does private_dot so just change it after applying it to your system)
+half ass and not managed lol
 
 > [Proton-GE-Custom](https://github.com/SpookySkeletons/proton-ge-rtsp): Proton with the most recent bleeding-edge Proton Experimental WINE
 * [ADSF](https://asdf-vm.com/) to install proton ge without issues
